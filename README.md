@@ -1,1 +1,1 @@
-"This reposetory for practic on Git." 
+"2nd branch Git." 
