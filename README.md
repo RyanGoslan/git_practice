@@ -1,1 +1,1 @@
-"RЦей репозиторій призначений для практики з Git." 
+"This reposetory for practic on Git." 
